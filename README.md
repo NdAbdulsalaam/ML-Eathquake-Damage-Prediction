@@ -1,4 +1,4 @@
-<img src = "https://th.bing.com/th/id/OIP.HhUfenLp_nZ-QGte3_O1twHaE7?pid=ImgDet&rs=1" width = "1500">
+<img src = "earthquake-damage.jpg" width = "1500">
 <h1 align = 'center', style = 'font-size:48px'><strong>Earthquake Damage in Kavrepalanchok</strong></h1>
 
 ## Overview
